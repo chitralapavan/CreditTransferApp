@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CreditTransferApp</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="credit">Credit</string>
+    <string name="date">Date</string>
+    <string name="save_menu_title">save</string>
+    <string name="delete_user_menu_title">Delete All</string>
+    <string name="show_All_transaction_menu_title">Show All Transaction</string>
+    <string name="transfer_button">Transfer</string>
+</resources>
